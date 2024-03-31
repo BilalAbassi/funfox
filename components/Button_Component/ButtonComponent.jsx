@@ -14,7 +14,7 @@ const ButtonComponent = ({ Value }) => {
         <Image
           width={1000}
           height={1000}
-          src="/markIcon1.png"
+          src="/markicon1.png"
           className="md:w-[41px] md:h-[45px] w-[25px] h-[25px]  2xl:w-[60px]  cursor-pointer 2xl:h-[60px]"
         />
       </div>
